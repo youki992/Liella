@@ -62,7 +62,7 @@ def main(host,port):
 
 console = Console()
 def Weibu(ip):  # 微步威胁情报查询
-    ThreatBook_api = "a5511858d9d547e38b99f6f98bd5541ca49bce41afa94849b7af4ff93af46305"
+    ThreatBook_api = ""
     if ThreatBook_api == "":
         console.log('[red][EROR] 未检测到微步 API')
         return ('N/A', 'N/A', 'N/A', 'N/A', 'N/A', 'N/A', 'N/A', 'N/A', 'N/A')
