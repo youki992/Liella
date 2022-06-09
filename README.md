@@ -8,10 +8,6 @@ Liella 是一个在Linux / Windows平台下运行的应急响应工具
 
 </div>
 
-## 声明
-
-### 本工具旨在辅助应急响应，请勿用于非法用途
-
 ## 功能
 
 - 判断开放在公网（0.0.0.0）的危险端口
@@ -26,7 +22,7 @@ Liella 是一个在Linux / Windows平台下运行的应急响应工具
 ## 安装使用
 
 - 安装Python3环境
-- 在代码65行中填入https://x.threatbook.cn/v5/myApi的微步API Key
+- 在代码65行中填入https://x.threatbook.cn/v5/myApi 的微步API Key
 [![Xs0jKg.png](https://s1.ax1x.com/2022/06/09/Xs0jKg.png)](https://imgtu.com/i/Xs0jKg)
 - python3 Liella.py 启动
 
