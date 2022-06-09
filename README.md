@@ -4,8 +4,7 @@ Liella 是一个在Linux / Windows平台下运行的应急响应工具
 
 主要用于确认本机已建立的网络连接中是否存在C2后门，或是是否存在被威胁情报标记的服务器
 
-这个项目的名字来源于
-<p>LoveLive!企划的<a href="https://zh.moegirl.org.cn/Liella!">偶像团体(Liella!)</a></p>
+这个项目的名字来源于<p>LoveLive!企划的<a href="https://zh.moegirl.org.cn/Liella!">偶像团体(Liella!)</a></p>
 
 </div>
 
